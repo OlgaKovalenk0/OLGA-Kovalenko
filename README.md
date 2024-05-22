@@ -9,4 +9,4 @@
 А ещё я мечтаю жить у океана. Пробовала. Понравилось.
 Пожалуй, это были лучшие полгода моей жизни на острове в индийском океане.
 
-<img src="/img/VN1jkDqFuEc.jpg">
+<img src="https://raw.githubusercontent.com/OlgaKovalenk0/OLGA-Kovalenko/main/img/VN1jkDqFuEc.jpg">
