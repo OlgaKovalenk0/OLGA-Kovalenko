@@ -4,7 +4,7 @@
 
 Изучаю программирование с переменным успехом, и конечно же, мечтаю победить в этой нелегкой схватке.
 
-<img src="https://github.com/OlgaKovalenk0/OLGA-Kovalenko/blob/main/img/1692889890793.jpg">
+<img src="https://raw.githubusercontent.com/OlgaKovalenk0/OLGA-Kovalenko/main/img/1692889890793.jpg">
 
 А ещё я мечтаю жить у океана. Пробовала. Понравилось.
 Пожалуй, это были лучшие полгода моей жизни на острове в индийском океане.
